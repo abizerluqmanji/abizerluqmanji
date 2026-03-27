@@ -1,14 +1,14 @@
 Hi 👋 My name is Abizer Luqmanji
 ================================
 
-Software Engineer
------------------
+- Staff Software Engineer at NI (now part of Emerson) focused on DevSecOps  
+- M.S. in Software Engineering (Embedded Systems) from Carnegie Mellon University  
+- Passionate about automation and cloud systems  
 
-Passionate about Embedded Systems, I'm enrolled in Carnegie Mellon's Master of Software Engineering program to expand my knowledge and skills, building upon my two years of industry experience
-
-* 🌍  I'm based in Pittsburgh, PA
-* ✉️  You can contact me at [hello@abizerluqmanji.com](mailto:hello@abizerluqmanji.com)
-* 🤝  I'm open to collaborating on interesting projects
+---
+- Based in Austin, TX  
+- Contact me by [email](mailto:abizer2000@gmail.com)  
+- Open to collaborating on interesting projects
 
 ### Skills
 
